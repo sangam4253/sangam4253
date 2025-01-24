@@ -66,7 +66,7 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCfHIFf20sOCrTgmHOW0NXVA" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Kushal Obroy" height="50" width="50" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Kushal Obroy" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/sangam4253" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Kushal Obroy" height="50" width="50" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Kushal Obroy" height="50" width="50" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Kushal Obroy" height="50" width="50" /></a>
