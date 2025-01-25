@@ -43,7 +43,7 @@
   
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sangam4253&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sangam4243&theme=vue-light&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sangam4253&theme=vue-light&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
