@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently working at **Infosys**
 
-- 🧑‍🎓 I’m an Graduated at **AKTU (REC Azamgarh)**
+- 🧑‍🎓 I’m  Graduated at **AKTU (REC Azamgarh)**
 
 - 💬 Ask me about **Fullstack development**
 
